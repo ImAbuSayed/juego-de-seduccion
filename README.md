@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/juego-de-seduccion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Juego de seducción](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juego-de-seduccion/) |
+| **Get License** | [Official Music Licensing for Juego de seducción](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juego-de-seduccion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tu mirada me tiene en un trance
+> Esta noche en Barcelona, dame un chance
+> Tú y yo solos, perdiéndonos en la ciudad
+> Siento el fuego, esto es pura electricidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
