@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Juego de seducción
+
+This log tracks the cryptographic history and versioning for the song **Juego de seducción** (juego-de-seduccion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:05:34.956826 | `v1` | `84192060f6948ecd1c51356fd17373fb76cbe134627aa387d8cc55becafd7857` | `0ecfaa1a631b40808120fe32df795c3bcaba7f575f70ce30f09f0cbbd37d9698` | `2026-06-15_juego-de-seduccion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
